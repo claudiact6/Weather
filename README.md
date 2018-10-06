@@ -1,3 +1,3 @@
 # Weather
 
-A simple weather interface using the Openweathermap API ()
+A simple weather interface using the [Openweathermap API](https://openweathermap.org/api).
